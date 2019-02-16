@@ -10,8 +10,10 @@ correspondence should be addressed to:  lhood@systemsbiology.org, sgibbons@syste
 List of code files:
 
 FIGURE_2.ipynb -  code to generate Figure 2 |
+
 HEATMAPS_FIGURE3_SUPP_FIGURE1_SUPP_FIGURE4_SUPP_FIGURE5.ipynb -	Code to generate Figure 3, Supplementary figures 1, 4 & 5 |
-LASSO_RIDGE_METABOLOMICS_ANALYSIS.ipynb	| 
+
+LASSO_RIDGE_METABOLOMICS_ANALYSIS.ipynb - code used to generate analysis presented in figures 1 and 6| 
 RF_Classification_Mets_and_Clinical_Labs.ipynb	|
 
 
