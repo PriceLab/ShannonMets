@@ -1,6 +1,4 @@
 # ShannonMets
-Code for:
--------------------------------------------------------------------------------------------
 Blood metabolome signature predicts gut microbiome α-diversity in health and disease
 -------------------------------------------------------------------------------------------
 correspondence should be addressed to:  lhood@systemsbiology.org, sgibbons@systemsbiology.org, or nathan.price@systemsbiology.org 
