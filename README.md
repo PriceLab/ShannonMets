@@ -15,6 +15,8 @@ HEATMAPS_FIGURE3_SUPP_FIGURE1_SUPP_FIGURE4_SUPP_FIGURE5.ipynb -	Code to generate
 
 LASSO_RIDGE_METABOLOMICS_ANALYSIS.ipynb - code used to generate analysis presented in figures 1 and 6 
 
+Regression_analysis_Figure_4and5 - code used to generate analysis presented in figures 4 and 5
+
 RF_Classification_Mets_and_Clinical_Labs.ipynb	- code used to generate analysis in figure 6 and supplementary figure 3.
 
 Clinical_Labs_Proteomics_Regression_Analysis - code used to generate analysis in figure 6C, performance of clinical labs and proteomics in predicting Shannon diversity in the discovery and validation cohorts.
