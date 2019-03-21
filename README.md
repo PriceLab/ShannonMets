@@ -12,7 +12,7 @@ LASSO_RIDGE_METABOLOMICS_ANALYSIS.ipynb - code used to generate analysis present
 
 FIGURE_2.ipynb -  code to generate Figure 2 
 
-HEATMAPS_FIGURE3_SUPP_FIGURE2_SUPP_FIGURE6_SUPP_FIGURE7.ipynb -	Code to generate Figure 3, Supplementary figures 2 & 6 
+HEATMAPS_FIGURE3_SUPP_FIGURE2_SUPP_FIGURE6.ipynb -	Code to generate Figure 3, Supplementary figures 2 & 6 
 
 Regression_analysis_Figure_4and5 - code used to generate analysis presented in figures 4 and 5
 
