@@ -1,6 +1,8 @@
 # ShannonMets
-Blood metabolome signature predicts gut microbiome α-diversity in health and disease
+[Blood metabolome signature predicts gut microbiome α-diversity in health and disease](https://www.nature.com/articles/s41587-019-0233-9)
 -------------------------------------------------------------------------------------------
+
+
 correspondence should be addressed to:  lhood@systemsbiology.org, sgibbons@systemsbiology.org, or nathan.price@systemsbiology.org 
 
 
