@@ -45,7 +45,7 @@ CL_P_Shannon.ipynb - code used to predict Shannon diversity from proteomics and 
 
 Classification_Analysis.ipynb - code used to classify individuals in the bottom quartile of Shannon diversity using 11 plasma metabolites or a panel of clinical labs.
 
-OLS_Regression.ipynb - code used to generate Ordinary Least Square Regression models between each metabolite and Shannon. The code depends on a list of the 40 mets identified, which is generated in using the "Metabolomics_Shannon" code. Same code can be used to generate OLS models with chemistries and proteomics.
+OLS_Regression.ipynb - code used to generate Ordinary Least Square Regression models between each metabolite and Shannon. The code depends on a list of the 40 mets identified, which is generated using the "Metabolomics_Shannon" code. Same code can be used to generate OLS models for chemistries and proteomics.
 
 
 
