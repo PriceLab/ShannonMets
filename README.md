@@ -16,7 +16,7 @@ FiguresNotebooks:
 
 
 List of code files:
---------------------
+
 
 LASSO_RIDGE_METABOLOMICS_ANALYSIS.ipynb - code used to generate analysis presented in figures 1 and 6 
 
@@ -32,7 +32,6 @@ Clinical_Labs_Proteomics_Regression_Analysis - code used to generate analysis in
 
 
 List of data files:
--------------------
 
 Validation_compositional_microbiome-3 (1).csv	microbiome -  composition median abundance data for validation cohort 
 
