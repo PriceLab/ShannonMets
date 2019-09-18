@@ -7,7 +7,7 @@ https://doi.org/10.1038/s41587-019-0233-9
 
 correspondence should be addressed to:  lhood@systemsbiology.org, sgibbons@systemsbiology.org, or nathan.price@systemsbiology.org 
 
-The content is divided into two folders, one with the copies of notebooks used to generate main figures (as well as Supplementary Figure 2, which was originally a main figure) and one with code that can be run of the data to replicate our results. 
+The content is divided into two folders, one with the copies of notebooks used to generate main figures (as well as Supplementary Figure 2, which was originally a main figure) and one with code that can be run on the data to replicate the results. 
 
 List of code files:
 --------------------
