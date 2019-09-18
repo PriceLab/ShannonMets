@@ -39,7 +39,7 @@ discovery_medians.csv -	microbiome composition median abundance data for discove
 List of files in the ReplicationCode folder:
 --------------------
 
-Metabolomics_Shannon.ipynb - code used to predict Shannon diversity, as well as PD whole tree and Chao1, from plasma metabolomics. The code generates an R2 and extracts mean beta-coefficients from each of the ten cross-validations. RUN this code before proceeding to the Classification_Analysis or OLS_Regression, since tthese codes rely on .CSV files with the LASSSO identified metabolites. 
+Metabolomics_Shannon.ipynb - code used to predict Shannon diversity, as well as PD whole tree and Chao1, from plasma metabolomics. The code generates an R2 and extracts mean beta-coefficients from each of the ten cross-validations. RUN this code before proceeding to the Classification_Analysis or OLS_Regression, since these codes rely on .CSV files with the LASSSO identified metabolites. 
 
 CL_P_Shannon.ipynb - code used to predict Shannon diversity from proteomics and Clinical labs across the discovery and validation cohorts. The code also calculates an R2 for different combinations of omics data.
 
