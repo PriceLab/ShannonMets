@@ -15,7 +15,7 @@ FiguresNotebooks:
 --------------------
 
 
-List of code files:
+**List of code files:**
 
 
 LASSO_RIDGE_METABOLOMICS_ANALYSIS.ipynb - code used to generate analysis presented in figures 1 and 6 
@@ -31,7 +31,7 @@ RF_Classification_Mets_and_Clinical_Labs.ipynb	- code used to generate analysis 
 Clinical_Labs_Proteomics_Regression_Analysis - code used to generate analysis in figure 6C, performance of clinical labs and proteomics in predicting Shannon diversity in the discovery and validation cohorts
 
 
-List of data files:
+**List of data files:**
 
 Validation_compositional_microbiome-3 (1).csv	microbiome -  composition median abundance data for validation cohort 
 
