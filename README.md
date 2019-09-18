@@ -9,6 +9,12 @@ correspondence should be addressed to:  lhood@systemsbiology.org, sgibbons@syste
 
 The content is divided into two folders, one with the copies of notebooks used to generate main figures (as well as Supplementary Figure 2, which was originally a main figure) and one with code that can be run on the data to replicate the results. 
 
+ 
+
+FiguresNotebooks:
+--------------------
+
+
 List of code files:
 --------------------
 
@@ -41,4 +47,6 @@ corr_pval_validation-2 (1).csv -	p-values of correlation between metabolites and
 discovery_medians.csv -	microbiome composition median abundance data for discovery cohort 
 
 
+ReplicationCode:
+--------------------
 
