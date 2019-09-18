@@ -65,7 +65,7 @@ Needed input files: '_40_coefs.csv', 'data_discovery.csv'
 Generated output files: 'supplementary_table_1.csv'
 
 --------------------
-Data files for code replication will be provided upon signature of a user agreement
+Qualified researchers can access the full deidentified dataset for research purposes. Requests should be sent to nathan.price@systemsbiology.org.
 --------------------
 
 
