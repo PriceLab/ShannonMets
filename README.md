@@ -67,6 +67,12 @@ Generated output files: 'supplementary_table_1.csv'
 --------------------
 Qualified researchers can access the full deidentified dataset for research purposes. Requests should be sent to nathan.price@systemsbiology.org.
 --------------------
-
+**Download Instructions**
+1. Open the file you are interested in downloading
+2. Click on 'Raw'
+3. Press ctrl+s to save it as .ipynb (Note that you'll have to manually type '.ipynb' after the file name to make this work, as files from GitHub are saved as text files as default.)
+4. Open jupyter notebook
+5. Go to location where you saved .ipynb file
+6. Open file, you will see the code
 
 
