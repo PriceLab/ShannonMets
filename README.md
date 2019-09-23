@@ -53,7 +53,7 @@ metabolites and microbiome in validation cohort
 **discovery_medians.csv** - microbiome composition median abundance data
 for discovery cohort 
 
-##Files in the ReplicationCode folder:
+## Files in the ReplicationCode folder:
 --------------------
 
 ### Metabolomics_Shannon.ipynb
@@ -127,9 +127,9 @@ Run order: 2  (run **Metabolomics_Shannon.ipynb** first)
   - supplementary_table_1.csv
 
 
-### Qualified researchers can access the above deidentified input files
-for research purposes. Requests should be sent to
-nathan.price@systemsbiology.org.
+### Accessing data files
+Qualified researchers can access the above deidentified input files
+for research purposes. Requests should be sent to nathan.price@systemsbiology.org.
 
 After receiving the files from above, unzip the files and copy the csvs
 directly into the ReplicationCode folder. You should then start a
@@ -145,12 +145,18 @@ of:
 - matplotlib
 - statsmodels
 
-If you want to use **Docker**, the (Jupyter scipy docker
-stack)[https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html]
-has all required software.
-Example
+If you want to use **Docker**, the [Jupyter scipy docker
+stack](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
+has all prerequisites installed.
+
+Note: This assumes you have requested and received the data files (see **Accessing data files** ) and unzipped them to current folder.
+
+**Example:**
+
 ```bash
-docker run -p 8888:8888  --user $(id -u):$(id -g) --group-add users -v <path_to_ShannonMets>:/home/jovyan/work
+git clone https://github.com/PriceLab/ShannonMets.git .
+cp NBT_data_files/*.csv ShannonMets/ReplicationCode/
+docker run -p 8888:8888  --user $(id -u):$(id -g) --group-add users -v "$PWD":/home/jovyan/work
 jupyter/scipy-notebook:1386e2046833
 ```
 
