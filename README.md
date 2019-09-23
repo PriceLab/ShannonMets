@@ -14,8 +14,19 @@ notebooks used to generate main figures (as well as Supplementary Figure
 2, which was originally a main figure) and one with code that can be run
 on the data to replicate our results. 
 
-List of files in the FiguresNotebooks folder:
---------------------
+## Sections
+
+1. [Figure regeneration](#figuresnotebooks-folder)
+2. [Reproduce Results](#replicationcode-folder)
+3. [Request data](#requesting-data)
+4. [Software Prerequisites](#software-prerequisites)
+5. [Docker Example](#docker-example)
+
+## FiguresNotebooks folder:
+
+These files are for regenerating the main figures from the paper.
+In order to run all these files, you will need to [request data](#requesting-data).
+
 
 **LASSO_RIDGE_METABOLOMICS_ANALYSIS.ipynb** - code used to generate
 analysis presented in figures 1 and 6 
@@ -53,8 +64,10 @@ metabolites and microbiome in validation cohort
 **discovery_medians.csv** - microbiome composition median abundance data
 for discovery cohort 
 
-## Files in the ReplicationCode folder:
---------------------
+## ReplicationCode folder:
+
+The **ReplicationCode** folder contains notebooks that will recreate the analysis described in the paper.
+In order to run all these files, you will need to [request data](#requesting-data).
 
 ### Metabolomics_Shannon.ipynb
 
@@ -127,9 +140,12 @@ Run order: 2  (run **Metabolomics_Shannon.ipynb** first)
   - supplementary_table_1.csv
 
 
-### Accessing data files
+## Requesting data
+
 Qualified researchers can access the above deidentified input files
 for research purposes. Requests should be sent to nathan.price@systemsbiology.org.
+
+## Software Prerequisites
 
 After receiving the files from above, unzip the files and copy the csvs
 directly into the ReplicationCode folder. You should then start a
@@ -145,13 +161,15 @@ of:
 - matplotlib
 - statsmodels
 
+## Docker Example
+
 If you want to use **Docker**, the [Jupyter scipy docker
 stack](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
 has all prerequisites installed.
 
 Note: This assumes you have requested and received the data files (see **Accessing data files** ) and unzipped them to current folder.
 
-**Example:**
+**Example workflow:**
 
 ```bash
 git clone https://github.com/PriceLab/ShannonMets.git .
